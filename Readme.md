@@ -1,3 +1,13 @@
+# UMBC DATA SCIENCE Capstone Project<br /> Ozgur Ozturk 
+
+
+**Author** : Venkata Saikumar Reddy Murukuti <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Aditya Kamishetty <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chandra Lekha Bhaviri <br />**Semester**: Spring'23<br />
+
+# Links:
+
+**Code:**
+https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis_606/blob/main/src/Project_final.ipynb
+
 **Problem Statement:** 
 Based on the census, personal details, financial details and other marketing campaign, predict if the customer will Subscribe for Term Deposit.
 
