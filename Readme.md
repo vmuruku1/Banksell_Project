@@ -6,7 +6,7 @@
 # Links:
 
 **Code:**
-https://github.com/DATA-606-SPRING-2023-THU/Sushanth_Farmdata_analysis_606/blob/main/src/Project_final.ipynb
+https://github.com/vmuruku1/Banksell_Project/blob/main/src/Bank%20Marketing-FINAL.ipynb
 
 **Problem Statement:** 
 Based on the census, personal details, financial details and other marketing campaign, predict if the customer will Subscribe for Term Deposit.
